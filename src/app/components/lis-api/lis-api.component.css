@@ -1,0 +1,33 @@
+.card, .list-group-item{
+  background-color: rgb(32, 35, 41);
+}
+
+.card-title{
+  color: rgb(255, 152, 0);
+}
+
+.list-group-item{
+  color: #ffff;
+}
+
+.list-group-item i {
+  padding: 7px;
+  font-size: 10px;
+}
+
+.setGreen{
+  color: #026e02
+}
+
+.setRed{
+  color: #FF0000;
+}
+
+.setGrey{
+  color: #555454;
+}
+
+.fa-map-pin{
+  color: #FF0000;
+}
+
