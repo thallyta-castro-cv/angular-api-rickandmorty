@@ -10,7 +10,7 @@ Este projeto consiste em uma aplicação frontend, onde foi realizado a integra�
 
 # Layout do projeto
 
-![Dashboard](1.png)
+![API-RickAndMorty](1.png)
 
 # Tecnologias utilizadas
 
@@ -19,7 +19,6 @@ Este projeto consiste em uma aplicação frontend, onde foi realizado a integra�
 * Javascript
 * Fontawesome
 * Bootstrap 5
-* Google Chart API
 * Observable RxJs
 * Typescript 4.5.2
 * Angular CLI 13.2.3
@@ -32,6 +31,9 @@ Para iniciar a aplicação execute o seguinte comando no terminal dentro da past
 ```shell script
 ng serve
 ```
+
+### A API para listar os personagens estão no URL: 
+https://rickandmortyapi.com/
 
 # Autor
 <b>Thallyta Macedo Carvalho de Castro</b>
